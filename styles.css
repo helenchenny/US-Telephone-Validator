@@ -1,0 +1,71 @@
+
+
+* {
+    box-sizing:border-box;
+    width:100%;
+    font-family:Trebuchet MS;
+    
+  
+  }
+  
+  
+  body {
+    background-color:#8a8396;
+    color:white;
+  }
+  
+  #title {
+    text-align:center;
+    padding-top:50px;
+  
+  }
+  
+  #phone {
+    width:450px;
+    height:250px;background-color:#e6d7ff;
+    border-radius:10px;
+    margin:auto;
+    margin-top:100px;
+    padding:5px;
+  }
+  
+  #screen {
+    width:400px;
+    height:170px;
+    background-color:#faf7ff;
+    border-radius:10px;
+    margin:auto;
+    margin-top:10px;
+    padding:2px;
+  }
+  
+  #input {
+    color:black;
+    margin:auto;
+    text-align:center;
+    width:85%;
+  }
+  
+  #user-input {
+    height:20%;
+    border-radius:10px;
+    border:1.5px solid #b8a2db;
+  }
+  
+  #results-div {
+    color:black;
+   
+  }
+  
+  #buttons {
+    width:80%;
+    display:flex;
+    margin:auto;
+    height:20%;
+    cursor:pointer;
+    margin-top:5px;
+  }
+  
+  button {
+    margin:10px;
+  }
